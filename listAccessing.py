@@ -1,0 +1,13 @@
+print("creating a list")
+lst = [1,"kavya",23.00000]
+print(lst)
+print("Getting the type of list")
+print(type(lst))
+print("List Accesing using positive indexing")
+print(lst[0])
+print(lst[1])
+print(lst[2])
+print("List Accesing using negative indexing")
+print(lst[-1])
+print(lst[-2])
+print(lst[-3])
